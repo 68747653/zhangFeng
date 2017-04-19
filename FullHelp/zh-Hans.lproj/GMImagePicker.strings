@@ -1,0 +1,44 @@
+/*
+ GMImagePicker.strings
+ MedicalCareFree
+ 
+ Created by hhsoft on 16/9/24.
+ Copyright © 2016年 www.huahansoft.com. All rights reserved.
+ */
+/* Cancel */
+"picker.navigation.cancel-button" = "取消";
+
+/* Done */
+"picker.navigation.done-button" = "完成";
+
+/* Navigation bar default title */
+"picker.navigation.title" = "选择图片";
+
+/* %@ Items Selected */
+"picker.selection.multiple-items" = "%@ 项已选";
+
+/* %@ Photos Selected */
+"picker.selection.multiple-photos" = "%@ 图片已选";
+
+/* %@ Videos Selected */
+"picker.selection.multiple-videos" = "%@ 视频已选";
+
+/* 1 Photo Selected */
+"picker.selection.single-photo" = "1 图片已选";
+
+/* 1 Video Selected */
+"picker.selection.single-video" = "1 视频已选";
+
+/* All photos */
+"picker.table.all-photos-label" = "照相机";
+
+/* Smart Albums */
+"picker.table.smart-albums-header" = "SMART COLLECTIONS";
+
+/* Albums */
+"picker.table.user-albums-header" = "COLLECTIONS";
+
+/*最大选择数量超出*/
+"picker.maxallowselectcount" = "已经超出最大选择数量";
+"picker.maxallowselectcount.alertbutton" = "确定";
+"picker.maxallowselectcount.alerttips" = "提示";
